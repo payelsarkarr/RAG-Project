@@ -15,15 +15,14 @@ A chatbot that uses retrieval-augmented generation to provide accurate, context-
 
 ---
 
-## Project 2: CSV Concat Agent (Extra Credit)
+## Project 2: CSV Processing Agent
 
 ### Description
-An AI agent that performs CSV file concatenation and explores how language models interact with functions.
+An AI agent that performs CSV file processing using function calling. The project explores how language models interact with tools and execute tasks based on natural language instructions.
 
-- Implements two versions:
-  - Parameterized function (harder for agent)
-  - Hardcoded function (easier for agent)
-- Tests how prompts and docstrings affect function calling
+- Implements both parameterized and hardcoded functions
+- Evaluates how prompts and docstrings influence agent behavior
+- Demonstrates practical use of LLM-based automation Tests how prompts and docstrings affect function calling
 
 ### File
 - `extra_credit_simple_student.ipynb`
